@@ -1,0 +1,98 @@
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+}
+img {
+  max-width: 100%;
+}
+/* ---------- Site Heading ---------- */
+
+.cat-header {
+  width: 72px;
+}
+
+.dog-header {
+  width: 72px;
+}
+
+.site-heading * {
+  vertical-align: middle;
+}
+
+.site-heading h1 {
+  font-family: cursive, sans-serif;
+  font-size: 36px;
+  margin-bottom: 0;
+}
+
+.site-heading {
+  background-color: #13c4e2;
+}
+
+/* ---------- Navigation Panels ---------- */
+nav {
+  width: 270px;
+}
+
+nav > ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav > ul > li {
+  margin: 10px;
+  padding: 5px;
+  background-color: #13c4e2;
+  -webkit-background-size: 90%;
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: 3px solid black;
+  height: 50px;
+  width: 50px;
+  float: left;
+  cursor: pointer;
+  text-shadow: 5px;
+}
+
+nav > ul > li.active {
+  border-color: red;
+}
+
+nav > ul > li > span {
+  color: white;
+  background: #555;
+  font-size: 11px;
+}
+
+#kitten {
+  background-image: url('../img/kitten.jpg');
+}
+
+#puppy {
+  background-image: url('../img/puppy.jpg');
+}
+#baby-zebra {
+  background-image: url('../img/baby-zebra.jpg');
+}
+#pony {
+  background-image: url('../img/pony.jpg');
+}
+#tiger-cub {
+  background-image: url('../img/tiger-cub.jpg');
+}
+#mouse {
+  background-image: url('../img/mouse.jpg');
+}
+#baby-elephant {
+  background-image: url('../img/baby-elephant.jpg');
+}
+
+main {
+  display: flex;
+}
+
+#info-box {
+  clear: both;
+  margin: 10px;
+}
