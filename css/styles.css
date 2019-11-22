@@ -30,7 +30,11 @@ img {
 
 /* ---------- Navigation Panels ---------- */
 nav {
-  width: 270px;
+  width: 90px;
+}
+
+#gallery {
+  width: 580px;
 }
 
 nav > ul {
@@ -96,3 +100,7 @@ main {
   clear: both;
   margin: 10px;
 }
+
+
+#info-fact {
+  font-size: 16px; }

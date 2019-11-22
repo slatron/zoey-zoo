@@ -39,7 +39,7 @@ $(function () {
               .append('<div id="info-name">')
               .append('<div id="info-fact">'),
     init: function() {
-      nav.element.append(this.element);
+      $('#aio').append(this.element);
     },
     setInfo: function(animalKey) {
       var info = zoey_info.animals[animalKey];
