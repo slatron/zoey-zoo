@@ -67,18 +67,29 @@ Mice may make 20 to 30 visits to different food sites each night taking as littl
     elephant: {
       name: 'Elephant',
       fun_fact: `
-
-
-Baby elephants stay very close to their mothers for the first couple of months. The calves drink their mother's milk for about two years, sometimes longer. They drink up to 3 gallons of milk a day! At about four months old, they also begin eating some plants, like adult elephants, but they continue to need as much milk from their mother. They keep drinking milk for up to ten years!
-
-At first, baby elephants don't really know what to do with their trunks. They swing them to and fro and sometimes even step on them. They will suck their trunk just as a human baby might suck its thumb.
-
-By about 6 to 8 months, calves begin learning to use their trunks to eat and drink. By they time they are a year old, they can control their trunks pretty well and, like adult elephants, use their trunks for grasping, eating, drinking, bathing.
-
-Female elephants stay with the herd for life, while males leave to begin a solitary life at about 12 to 14 years of age.
-`,
-      domestic: false
+      Baby elephants stay very close to their mothers for the first couple of months. The calves drink their mother's milk for about two years, sometimes longer. They drink up to 3 gallons of milk a day! At about four months old, they also begin eating some plants, like adult elephants, but they continue to need as much milk from their mother. They keep drinking milk for up to ten years!
+      At first, baby elephants don't really know what to do with their trunks. They swing them to and fro and sometimes even step on them. They will suck their trunk just as a human baby might suck its thumb.
+      By about 6 to 8 months, calves begin learning to use their trunks to eat and drink. By they time they are a year old, they can control their trunks pretty well and, like adult elephants, use their trunks for grasping, eating, drinking, bathing.
+      Female elephants stay with the herd for life, while males leave to begin a solitary life at about 12 to 14 years of age.
+      `,
+      domestic: true
     },
+    panda: {
+      name:"Panda",
+      fun_fact:`Male pandas do a handstand while peeing to mark trees.
+      The life span of giant pandas in the wild is approximately 20 years.
+      Captive pandas may live to be 25-30 years old.
+      The red panda and the giant panda share the same habitat and diet, and both animals are also endangered.
+      However, scientific tests show that the red panda is in the raccoon family while the giant panda is in the bear family.
+      Some scientists believe that the giant panda is so special that it should belong to its own family group.
+      According to legend, the panda was once an all-white bear.
+       When a small girl tried to save a panda cub from being attacked by a leopard, the leopard killed the girl instead.
+        Pandas came to her funeral wearing armbands of black ashes.
+         As they wiped their eyes, hugged each other, and covered the ears, they smudged the black ashes.
+      Pandas can stand upright, but their short hind legs aren’t strong enough to support their bodies.
+       A panda’s bones are twice as heavy as the bones of other animals the same size.`,
+domestic: true
+    }
   }
 
 

@@ -91,7 +91,9 @@ nav > ul > li > span {
 #baby-elephant {
   background-image: url('../img/baby-elephant.jpg');
 }
-
+#panda {
+  background-image: url('../img/panda.jpg');
+}
 main {
   display: flex;
 }
